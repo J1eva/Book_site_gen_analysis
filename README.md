@@ -1,7 +1,7 @@
-![MasterHead](https://img.freepik.com/premium-photo/businessman-looking-computer-monitors-trade-stock-financial-analysis-pixel-art-style-graphic_176697-1874.jpg?w=1380)
+[MasterHead](https://img.freepik.com/premium-photo/businessman-looking-computer-monitors-trade-stock-financial-analysis-pixel-art-style-graphic_176697-1874.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Jeevan M.H</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://tenor.com/view/data-code-coding-facts-numbers-gif-27290748">
+<img align="right" alt="Coding" width="400" src= "https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j1eva&label=Profile%20views&color=0e75b6&style=flat" alt="j1eva" /> </p>
 
