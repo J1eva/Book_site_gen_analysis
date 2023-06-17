@@ -1,4 +1,4 @@
-[MasterHead](https://img.freepik.com/premium-photo/businessman-looking-computer-monitors-trade-stock-financial-analysis-pixel-art-style-graphic_176697-1874.jpg?w=1380)
+![MasterHead](https://img.freepik.com/premium-photo/businessman-looking-computer-monitors-trade-stock-financial-analysis-pixel-art-style-graphic_176697-1874.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Jeevan M.H</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
