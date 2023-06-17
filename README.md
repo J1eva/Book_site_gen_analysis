@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)
+![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 <h1 align="center">Hi 👋, I'm Jeevan M.H</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="300" src= "https://media.tenor.com/UkpBiDX-iJkAAAAC/analysis.gif">
