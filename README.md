@@ -1,14 +1,28 @@
-![MasterHead](https://img.freepik.com/premium-photo/businessman-looking-computer-monitors-trade-stock-financial-analysis-pixel-art-style-graphic_176697-1874.jpg?w=1380)
+![MasterHead](https://img.freepik.com/premium-photo/businessman-looking-computer-monitors-trade-stock-financial-analysis-pixel-art-style-graphic_176697-1874.jpg?w=1280)
 <h1 align="center">Hi 👋, I'm Jeevan M.H</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
-
+<img align="right" alt="Coding" width="300" src= "https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j1eva&label=Profile%20views&color=0e75b6&style=flat" alt="j1eva" /> </p>
+
+- 🔭 I’m currently working on **data analysis**
+
+- 🌱 I’m currently learning **SQL,Power BI(visualization tool)**
+
+- 👯 I’m looking to collaborate on **Excel generated dashboards**
+
+- 🤝 I’m looking for help with **data based problem solving and analysis**
+
+- 👨‍💻 All of my projects are available at [https://github.com/J1eva/j1va/blob/main/README.md](https://github.com/J1eva/j1va/blob/main/README.md)
+
+- 💬 Ask me about **Excel(Data Cleaning)**
 
 - 📫 How to reach me **jeevahatti@gmail.com**
 
+- ⚡ Fun fact **always there to help!! :)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jeevan m.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan m.h" height="30" width="40" /></a>
 <a href="https://instagram.com/jeeva_becrazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeeva_becrazy" height="30" width="40" /></a>
 </p>
 
