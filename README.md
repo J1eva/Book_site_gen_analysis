@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/WtVOjr6)](https://j1eva.io)
+[![MasterHead](https://imgur.com/WtVOjr6)]
 <h1 align="center">Hi 👋, I'm Jeevan M.H</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://tenor.com/view/data-code-coding-facts-numbers-gif-27290748">
